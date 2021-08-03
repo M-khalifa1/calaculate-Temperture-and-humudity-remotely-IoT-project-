@@ -1,4 +1,4 @@
-# calaculate-Temperture-and-humudity-remotely-IoT-project-
+# Weather station-IoT-project-
 The tools which are used it
 
   -NodeMcu
